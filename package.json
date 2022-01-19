@@ -1,0 +1,17 @@
+{
+  "name": "nuke-bot",
+  "version": "1.0.0",
+  "description": "nuke bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sEdOwFaLL",
+  "license": "ISC",
+  "dependencies": {
+    "discord-nuker": "^1.0.7",
+    "discord-raid-bot-tool": "^1.0.2",
+    "discord.js": "^13.5.1",
+    "mongoose": "^6.1.6"
+  }
+}
